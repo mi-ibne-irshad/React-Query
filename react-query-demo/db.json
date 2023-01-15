@@ -1,0 +1,134 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "Name": "Muhammad PBUH SAW",
+      "F_Name": "Abdullah R.A"
+    },
+    {
+      "id": 2,
+      "Name": "Ali R.A",
+      "F_Name": "Abi_Talib R.A"
+    },
+    {
+      "id": 3,
+      "Name": "Hussain R.A",
+      "F_Name": "Ali R.A"
+    },
+    {
+      "Name": "Khalid R.A",
+      "F_Name": "Waleed",
+      "id": 4
+    },
+    {
+      "Name": "Umar R.A",
+      "F_Name": "Khatab",
+      "id": 5
+    },
+    {
+      "Name": "Abu Bakar R.A",
+      "F_Name": "Abu Quhafa",
+      "id": 6
+    },
+    {
+      "Name": "Abdullah R.A",
+      "F_Name": "Abu Bakar R.A",
+      "id": 7
+    },
+    {
+      "Name": "Jafar R.A",
+      "F_Name": "Ali R.A",
+      "id": 8
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "Name": "Muhammad Islam"
+    },
+    {
+      "id": 2,
+      "Name": "Muhammad Muzammal"
+    },
+    {
+      "id": 3,
+      "Name": "Muhammad Hamza"
+    },
+    {
+      "id": 4,
+      "Name": "Muhammad Talha"
+    }
+  ],
+  "users": [
+    {
+      "id": "muhammadislam@example.com",
+      "channelId": "tezztech"
+    }
+  ],
+  "channels": [
+    {
+      "id": "tezztech",
+      "courses": [
+        "react",
+        "vue",
+        "angular",
+        "blockchain",
+        "Artificial Intelligence"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "black"
+    },
+    {
+      "id": 2,
+      "label": "white"
+    },
+    {
+      "id": 3,
+      "label": "blue"
+    },
+    {
+      "id": 4,
+      "label": "brown"
+    },
+    {
+      "id": 5,
+      "label": "gray"
+    },
+    {
+      "id": 6,
+      "label": "sky-blue"
+    },
+    {
+      "id": 7,
+      "label": "yellow"
+    },
+    {
+      "id": 8,
+      "label": "green"
+    },
+    {
+      "id": 9,
+      "label": "voilet"
+    },
+    {
+      "id": 10,
+      "label": "purple"
+    },
+    {
+      "id": 11,
+      "label": "red"
+    },
+    {
+      "id": 12,
+      "label": "silver"
+    },
+    {
+      "id": 13,
+      "label": "orange"
+    }
+  ]
+}
